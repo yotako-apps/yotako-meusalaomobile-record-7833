@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView
+android:fillViewport="true"
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <com.yotako.customView.YotakoConstraintLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_guidelines_top5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1604" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_guidelines_start5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0127" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_guidelines_bottom5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.91797" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_guidelines_end5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9967699999999999" />
+            <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/Mobile___Tela_de_Login_container_0_5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+android:background="#ffffff"
+app:borderColor="#000000"
+app:originalWidth="369"
+app:originalHeight="508"
+app:border="1"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_guidelines_start5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_guidelines_top5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_guidelines_end5c3f2e8c_7725_4eeb_ae97_fd23469b285a"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_guidelines_bottom5c3f2e8c_7725_4eeb_ae97_fd23469b285a">
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_top03ea8cec_230a_46cd_95d1_97d50bd59f07"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.12" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_start03ea8cec_230a_46cd_95d1_97d50bd59f07"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2686" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_bottom03ea8cec_230a_46cd_95d1_97d50bd59f07"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.21411000000000002" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_end03ea8cec_230a_46cd_95d1_97d50bd59f07"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.7831600000000001" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_0"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Meu Salão" 
+android:textSize="35sp"
+app:autoSizeTextType="none"
+app:originalWidth="190"
+app:originalHeight="48"
+android:layout_width="0dp"
+android:layout_height="57.599999999999994dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_start03ea8cec_230a_46cd_95d1_97d50bd59f07"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_top03ea8cec_230a_46cd_95d1_97d50bd59f07"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_end03ea8cec_230a_46cd_95d1_97d50bd59f07"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_text_0_guidelines_bottom03ea8cec_230a_46cd_95d1_97d50bd59f07" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_top41b4f1ef_7fc5_4753_880d_db07d16321ff"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2635" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_start41b4f1ef_7fc5_4753_880d_db07d16321ff"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_bottom41b4f1ef_7fc5_4753_880d_db07d16321ff"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.32702" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_end41b4f1ef_7fc5_4753_880d_db07d16321ff"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94816" />
+                <com.yotako.customView.YotakoEditText
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_0"
+android:inputType="text"
+android:hint="User"
+android:background="#ffffff"
+
+app:originalWidth="328"
+app:originalHeight="32"
+android:layout_width="328dp"
+android:layout_height="32dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_start41b4f1ef_7fc5_4753_880d_db07d16321ff"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_top41b4f1ef_7fc5_4753_880d_db07d16321ff"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_end41b4f1ef_7fc5_4753_880d_db07d16321ff"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_textfield_0_guidelines_bottom41b4f1ef_7fc5_4753_880d_db07d16321ff" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_topc8f0602e_7e1e_459f_b164_b53ed0de712c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.39759999999999995" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_startc8f0602e_7e1e_459f_b164_b53ed0de712c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_bottomc8f0602e_7e1e_459f_b164_b53ed0de712c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.46112" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_endc8f0602e_7e1e_459f_b164_b53ed0de712c"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94816" />
+                <com.yotako.customView.YotakoEditText
+android:id="@+id/Mobile___Tela_de_Login_container_0_textfield_1"
+android:inputType="text"
+android:hint="****"
+android:background="#ffffff"
+
+app:originalWidth="328"
+app:originalHeight="32"
+android:layout_width="328dp"
+android:layout_height="32dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_startc8f0602e_7e1e_459f_b164_b53ed0de712c"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_topc8f0602e_7e1e_459f_b164_b53ed0de712c"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_endc8f0602e_7e1e_459f_b164_b53ed0de712c"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_textfield_1_guidelines_bottomc8f0602e_7e1e_459f_b164_b53ed0de712c" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_top4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.2141" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_start4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_bottom4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.26350999999999997" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_end4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.21677" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_1"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Usuário:" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="59"
+app:originalHeight="25"
+android:layout_width="0dp"
+android:layout_height="30dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_start4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_top4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_end4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_text_1_guidelines_bottom4ebeb3a3_6f01_426b_a90d_f78b5f1b7e4f" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_topc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.3482" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_startc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_bottomc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.39761" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_endc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.19088000000000002" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_2"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Senha:" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="49"
+app:originalHeight="25"
+android:layout_width="0dp"
+android:layout_height="30dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_startc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_topc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_endc3fb0807_03a9_432c_a3e0_63624e54d0bf"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_text_2_guidelines_bottomc3fb0807_03a9_432c_a3e0_63624e54d0bf" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_top67dd5150_f740_4399_8c0f_3c7f4515254d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5129" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_start67dd5150_f740_4399_8c0f_3c7f4515254d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_bottom67dd5150_f740_4399_8c0f_3c7f4515254d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.60701" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_end67dd5150_f740_4399_8c0f_3c7f4515254d"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94816" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_layout"
+android:background="#ffffff"
+app:originalWidth="328"
+app:originalHeight="48"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_weight="1"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_start67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_top67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_end67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_bottom67dd5150_f740_4399_8c0f_3c7f4515254d">
+                    <com.yotako.customView.YotakoButton
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0"
+android:fontFamily="Balsamiq Sans"
+android:text="LOGIN"
+android:textSize="15dp"
+android:textAllCaps="false"
+android:background="#ffffff"
+app:originalWidth="328"
+app:originalHeight="48"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_start67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_top67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_end67dd5150_f740_4399_8c0f_3c7f4515254d"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_button_0_guidelines_bottom67dd5150_f740_4399_8c0f_3c7f4515254d"/>
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_top89766765_34b1_40c7_89ce_1a47dc179590"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.35" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_start89766765_34b1_40c7_89ce_1a47dc179590"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_bottom89766765_34b1_40c7_89ce_1a47dc179590"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.675" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_end89766765_34b1_40c7_89ce_1a47dc179590"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="1" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4"
+android:fontFamily="Balsamiq Sans"
+
+android:text="LOGIN" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="328"
+app:originalHeight="16"
+android:gravity="center_horizontal"
+android:layout_width="0dp"
+android:layout_height="19.2dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_start89766765_34b1_40c7_89ce_1a47dc179590"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_top89766765_34b1_40c7_89ce_1a47dc179590"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_end89766765_34b1_40c7_89ce_1a47dc179590"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_button_0_text_4_guidelines_bottom89766765_34b1_40c7_89ce_1a47dc179590" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_top44a9793c_3d06_4cb6_bd36_189cea202545"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6376" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_start44a9793c_3d06_4cb6_bd36_189cea202545"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0582" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_bottom44a9793c_3d06_4cb6_bd36_189cea202545"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6870099999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_end44a9793c_3d06_4cb6_bd36_189cea202545"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.94816" />
+                <com.yotako.customView.YotakoConstraintLayout
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_44a9793c_3d06_4cb6_bd36_189cea202545"
+app:originalWidth="328"
+app:originalHeight="25"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_start44a9793c_3d06_4cb6_bd36_189cea202545"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_top44a9793c_3d06_4cb6_bd36_189cea202545"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_end44a9793c_3d06_4cb6_bd36_189cea202545"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_row_6_guidelines_bottom44a9793c_3d06_4cb6_bd36_189cea202545">
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_topfab87850_fc6d_4152_91a6_4069574f7336"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.19039999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_startfab87850_fc6d_4152_91a6_4069574f7336"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_bottomfab87850_fc6d_4152_91a6_4069574f7336"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8570599999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_endfab87850_fc6d_4152_91a6_4069574f7336"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0509" />
+                    <com.yotako.customView.YotakoCheckBox
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0"
+android:checked="true"
+android:enabled="true"
+app:originalWidth="17"
+app:originalHeight="17"
+android:layout_width="17dp"
+android:layout_height="17dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_startfab87850_fc6d_4152_91a6_4069574f7336"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_topfab87850_fc6d_4152_91a6_4069574f7336"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_endfab87850_fc6d_4152_91a6_4069574f7336"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_row_6_checkbox_0_guidelines_bottomfab87850_fc6d_4152_91a6_4069574f7336" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_topa81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.19039999999999999" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_starta81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0727" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_bottoma81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.80944" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_enda81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.33451000000000003" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Lembrar-me" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="86"
+app:originalHeight="16"
+android:layout_width="0dp"
+android:layout_height="19.2dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_starta81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_topa81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_enda81aeaf4_8744_49cd_8fd5_fc02c583ede2"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_3_guidelines_bottoma81aeaf4_8744_49cd_8fd5_fc02c583ede2" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_top428d26f7_03cd_4591_98dd_9cf34aff6837"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_start428d26f7_03cd_4591_98dd_9cf34aff6837"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.5636" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_bottom428d26f7_03cd_4591_98dd_9cf34aff6837"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                    <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_end428d26f7_03cd_4591_98dd_9cf34aff6837"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9999600000000001" />
+                    <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Esqueceu a senha?" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="143"
+app:originalHeight="25"
+android:layout_width="0dp"
+android:layout_height="30dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_start428d26f7_03cd_4591_98dd_9cf34aff6837"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_top428d26f7_03cd_4591_98dd_9cf34aff6837"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_end428d26f7_03cd_4591_98dd_9cf34aff6837"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_row_6_text_5_guidelines_bottom428d26f7_03cd_4591_98dd_9cf34aff6837" />
+                </com.yotako.customView.YotakoConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_top187d6917_7382_4efa_9296_4ed98058b855"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7552" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_start187d6917_7382_4efa_9296_4ed98058b855"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.28800000000000003" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_bottom187d6917_7382_4efa_9296_4ed98058b855"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.8046099999999999" />
+                <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_end187d6917_7382_4efa_9296_4ed98058b855"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.76372" />
+                <com.yotako.customView.YotakoTextView
+android:id="@+id/Mobile___Tela_de_Login_container_0_text_6"
+android:fontFamily="Balsamiq Sans"
+
+android:text="Cadastrar novo usuário?" 
+android:textSize="15sp"
+app:autoSizeTextType="none"
+app:originalWidth="176"
+app:originalHeight="25"
+android:layout_width="0dp"
+android:layout_height="30dp"
+android:layout_weight="1"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_start187d6917_7382_4efa_9296_4ed98058b855"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_top187d6917_7382_4efa_9296_4ed98058b855"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_end187d6917_7382_4efa_9296_4ed98058b855"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_container_0_text_6_guidelines_bottom187d6917_7382_4efa_9296_4ed98058b855" />
+            </com.yotako.customView.YotakoConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_image_0_guidelines_top4023b769_1fa3_4d9f_bcb2_d1da67578009"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.073" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_image_0_guidelines_start4023b769_1fa3_4d9f_bcb2_d1da67578009"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.363" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_image_0_guidelines_bottom4023b769_1fa3_4d9f_bcb2_d1da67578009"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.25125" />
+            <android.support.constraint.Guideline
+android:id="@+id/Mobile___Tela_de_Login_image_0_guidelines_end4023b769_1fa3_4d9f_bcb2_d1da67578009"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6942099999999999" />
+            <com.yotako.customView.YotakoImageView
+android:id="@+id/Mobile___Tela_de_Login_image_0"
+app:customUrl="https://designresources.assets.yotako.io/40599ufjhc7rda5.png" 
+android:layout_height="0dp"
+android:layout_width="0dp"
+android:layout_weight="0"  android:adjustViewBounds="true" android:scaleType="fitXY"
+app:layout_constraintStart_toStartOf="@+id/Mobile___Tela_de_Login_image_0_guidelines_start4023b769_1fa3_4d9f_bcb2_d1da67578009"
+app:layout_constraintTop_toTopOf="@+id/Mobile___Tela_de_Login_image_0_guidelines_top4023b769_1fa3_4d9f_bcb2_d1da67578009"
+app:layout_constraintEnd_toEndOf="@+id/Mobile___Tela_de_Login_image_0_guidelines_end4023b769_1fa3_4d9f_bcb2_d1da67578009"
+app:layout_constraintBottom_toBottomOf="@+id/Mobile___Tela_de_Login_image_0_guidelines_bottom4023b769_1fa3_4d9f_bcb2_d1da67578009" />
+        </com.yotako.customView.YotakoConstraintLayout>
+    </ScrollView>
